@@ -149,7 +149,7 @@ export default function AnniversaryPage() {
             {/* Number 14 */}
             <div className="pulse-heart">
               <h1 className="text-6xl md:text-8xl font-bold text-white drop-shadow-lg">
-                14
+                14 Bulan
               </h1>
             </div>
             
